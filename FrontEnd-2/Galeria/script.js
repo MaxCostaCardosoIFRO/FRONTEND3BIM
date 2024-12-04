@@ -9,5 +9,5 @@ miniaturas.forEach(miniatura => {
         imgAmpliada.src = miniatura.src;
         imgAmpliada.style.display = 'block';
         miniatura.style.opacity = '1';
-        })
-})
+    })
+})                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
